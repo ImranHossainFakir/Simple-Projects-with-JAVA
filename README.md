@@ -10,3 +10,4 @@ API responds with a JSON object containing the relevant information.
 
 ### 2. [Taka-Poisa](https://github.com/ImranHossainFakir/Simple-Projects-with-JAVA/tree/main/Taka-Poisa)
 This Project is currently in development.
+This simple project is a system where users can create accounts with unique usernames and passwords, log in, and access a home page.
